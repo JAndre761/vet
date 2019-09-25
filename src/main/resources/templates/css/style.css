@@ -1,0 +1,104 @@
+menu{
+    background-color: #fef7ed;
+}
+.menu .bg-dark{
+    background-color:  #fef7ed!important;
+}
+.navbar-dark a{
+    color:#3a54b4!important;
+}
+header{
+    background-color: #fef7ed;
+}
+
+.navbar-dark a:hover{
+    color:#ff8a79!important;
+}
+
+.navbar-dark .navbar-toggler button {
+   
+    color: #3a54b4!important;
+    border-color:#3a54b4!important;
+}
+.slider .btn-group-lg>.btn, .btn-lg {
+   
+    border-radius:0rem !important;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,0.24),0 1px 1px 0 rgba(0,0,0,0.16);
+   
+}
+.slider .btn-group-lg>.btn, .btn-lg:hover {
+    background-color: #3a54b4!important;
+    color: white!important;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.24),0 2px 2px 0 rgba(0,0,0,0.16);
+   
+}
+
+
+
+
+.slider{
+    
+	
+   
+	height:100%;
+ 
+    max-height: 100%;
+    background-color: #fef7ed;
+}
+.texto-pricipal {
+    padding-top: 25%;
+    color: #3a54b4;
+
+}
+.texto-pricipal h2 {
+    font-size: 3.5em;
+}
+.texto-pricipal a{
+    margin-top: 10px;
+    
+}
+.slider img{
+    padding: 5%;
+}
+.quienestexto-pricipal{
+    
+    padding-top: 20%;
+}
+.quienestexto {
+    font-size: 1.3em;
+        color: #3a54b4;
+
+}
+.margin-50{
+    margin-top: 50px;
+}
+.paddin-50{
+    padding-top:80px;
+}
+
+.registro2{
+    background:url(../img/img7.jpg) no-repeat center center;
+    height: 100%;
+    width: 100%;
+   
+    background-size: cover;
+    
+
+}
+.registro2 label{
+    color: white;
+}
+
+
+@media (max-width: 700px) { 
+    .texto-pricipal {
+        padding-top: 10%;
+       
+    
+    }
+    .bnes{
+        text-align: center;
+    }
+
+ }
+
